@@ -1,0 +1,220 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CharacterBuilder
+</name>
+</assembly>
+<members>
+<member name="P:CharacterBuilder.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CharacterBuilder.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CharacterBuilder.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.armourDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.atwillpowerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.classDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.dailypowerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.encounterpowerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.equipmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.featsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.raceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.utilitypowerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.weaponsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.armourRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.atwillpowerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.classRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.dailypowerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.encounterpowerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.equipmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.featsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.raceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.utilitypowerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.weaponsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.armourRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.atwillpowerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.classRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.dailypowerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.encounterpowerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.equipmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.featsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.raceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.utilitypowerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet.weaponsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.armourTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.atwillpowerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.classTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.dailypowerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.encounterpowerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.equipmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.featsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.raceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.utilitypowerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.weaponsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CharacterBuilder.characterbuilderDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CharacterBuilder.characterbuilderDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CharacterBuilder.characterbuilderDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CharacterBuilder.characterbuilderDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CharacterBuilder.characterbuilderDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CharacterBuilder.characterbuilderDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CharacterBuilder.characterbuilderDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CharacterBuilder.characterbuilderDataSetTableAdapters.TableAdapterManager.UpdateAll(CharacterBuilder.characterbuilderDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CharacterBuilder.characterbuilderDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

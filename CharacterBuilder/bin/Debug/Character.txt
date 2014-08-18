@@ -1,0 +1,12 @@
+Test
+Eladrin
+Fighter
+Male
+1
+Chaotic Evil
+15
+16
+14
+9
+11
+13

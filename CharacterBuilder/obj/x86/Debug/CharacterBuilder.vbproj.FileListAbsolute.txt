@@ -1,0 +1,61 @@
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\obj\x86\Debug\CharacterBuilder.StartForm.resources
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\obj\x86\Debug\CharacterBuilder.Resources.resources
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\obj\x86\Debug\CharacterBuilder.SplashScreen.resources
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\bin\Debug\characterbuilder.mdb
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\bin\Debug\CharacterBuilder.exe.config
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\bin\Debug\CharacterBuilder.exe
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\bin\Debug\CharacterBuilder.pdb
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\bin\Debug\CharacterBuilder.xml
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\obj\x86\Debug\CharacterBuilder.exe
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\obj\x86\Debug\CharacterBuilder.xml
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\obj\x86\Debug\CharacterBuilder.pdb
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\obj\x86\Debug\CharacterBuilder.AboutBox1.resources
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 13\CharacterBuilder\CharacterBuilder\obj\x86\Debug\CharacterBuilder.CharacterBuilderForm.resources
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.exe.config
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.exe
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.xml
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.pdb
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\bin\Debug\characterbuilder.mdb
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.exe
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.pdb
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.xml
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.AboutBox1.resources
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.CharacterBuilderForm.resources
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.StartForm.resources
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.Resources.resources
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.SplashScreen.resources
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Courses\COMP1004 Rapid Aplication Development\F011\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.exe.config
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.exe
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.xml
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.pdb
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\bin\Debug\characterbuilder.mdb
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.exe
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.pdb
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.xml
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.AboutBox1.resources
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.CharacterBuilderForm.resources
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.StartForm.resources
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.Resources.resources
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.SplashScreen.resources
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Courses\COMP1004 Rapid Aplication Development\Lessons\Lesson 14 - Exam 2\Exam 2\CharacterBuilder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.exe.config
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.exe
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.xml
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.pdb
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\bin\Debug\characterbuilder.mdb
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.exe
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.pdb
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\bin\Debug\CharacterBuilder.xml
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.AboutBox1.resources
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.CharacterBuilderForm.resources
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.StartForm.resources
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.Resources.resources
+C:\Users\Marianne\Desktop\Exam 2\CharacterBuilder\obj\x86\Debug\CharacterBuilder.vbproj.GenerateResource.Cache
